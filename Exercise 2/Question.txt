@@ -1,0 +1,1 @@
+1. In the the last week's exercise we calculated p value using shapiro test, which tells us wheter the varialbe is normally distributed or not. What does the p value from these tests tells us? 
